@@ -1,0 +1,17 @@
+Bookshelf App 
+
+Dependencies:
+    -Json server
+    -axios
+    -redux (state management) (redux, react-redux)
+    -react router dom
+//S.O.L.I.D
+İş Sırası:
+    -Veri yapısı ve ilişkileri kurulması (json server yapılandırması) +
+    -Global bir axios dosyası oluşturma +
+    -redux yapısı oluşturma (temel seviye, daha sonradan geliştirilebilir)+
+        a.store'a taşınacak statelere karar vermek. (books ve categories)+
+
+    - Router yapısını kur. +
+    -UI kütüphanesi olarak bootstrap kullanılacak +
+

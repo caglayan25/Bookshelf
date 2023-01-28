@@ -1,0 +1,21 @@
+.generalBtn{
+    border: none;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-size: 12px;
+}
+
+.deleteBtn{
+    background-color:orangered;
+    color: #fff;
+}
+
+.editBtn{
+    background-color: gray;
+    color: #fff;
+}
+
+.detailBtn{
+    background-color: rgb(64, 155, 155);
+    color: #fff;
+}
